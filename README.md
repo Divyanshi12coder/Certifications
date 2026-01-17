@@ -19,7 +19,7 @@ A collection of certifications and achievements that highlight my learning journ
 | Hackathon Participation Certificate | Guru Gobind Singh Indraprashta University, Delhi | Hackathon (CodeClash 2.0) | Oct, 2025 |
 | Hackathon Participation Certificate | Tech Masters India | Hackathon (Code For Bharat Season 2) | Oct, 2025 |
 | Hackathon Participation Certificate | Product Space | Hackathon (AI Agent Hackathon) | Oct, 2025 |
-| HackerRank Certificate | HackerRank | Skills Validation | 02 Nov, 2025 |
+| HackerRank Certificate | HackerRank (https://www.hackerrank.com/certificates/7d2c6e67a362) | Skills Validation | 02 Nov, 2025 |
 | Quiz Participation Certificate | Tata Crucible | Quiz  | Nov, 2025 |
 | Quiz Participation Certificate | Unstop        | Quiz  | Sep, 2025 |
 | Quiz Participation Certificate | Unstop        | Coding Contest  | Jul, 2025 |
