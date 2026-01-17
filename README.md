@@ -11,18 +11,18 @@ A collection of certifications and achievements that highlight my learning journ
 |---------------|------------------|------|------|
 | AWS Internship – Course Completion Certificate | Amazon Web Services | Internship / Course | 24 Nov, 2025 |
 | Hackathon Participation Certificate | University Of Engineering and Mnagement, Kolkata | Hackathon (InnoFusion Season-2) | Jul, 2025 |
-                                      | StarSeek | Hackathon (Hack4Bihar) | Sep, 2025 | 
-                                      | CGC University, Mohali | Hackathon (VaultHeist) | Oct, 2025 |
-                                      | SRM University, AP | Hackathon (HackVyuha'25) | Oct, 2025 |
-                                      | University Of Engineering and Mnagement | Hackathon (Hack Synthesis 2.0) | Oct, 2025 |
-                                      | Chandigarh University | Hackathon (ComSoc HackX) | Oct, 2025 |
-                                      | Guru Gobind Singh Indraprashta University, Delhi | Hackathon (CodeClash 2.0) | Oct, 2025 |
-                                      | Tech Masters India | Hackathon (Code For Bharat Season 2) | Oct, 2025 |
-                                      | Product Space | Hackathon (AI Agent Hackathon) | Oct, 2025 |
+| Hackathon Participation Certificate | StarSeek | Hackathon (Hack4Bihar) | Sep, 2025 | 
+| Hackathon Participation Certificate | CGC University, Mohali | Hackathon (VaultHeist) | Oct, 2025 |
+| Hackathon Participation Certificate | SRM University, AP | Hackathon (HackVyuha'25) | Oct, 2025 |
+| Hackathon Participation Certificate | University Of Engineering and Mnagement | Hackathon (Hack Synthesis 2.0) | Oct, 2025 |
+| Hackathon Participation Certificate | Chandigarh University | Hackathon (ComSoc HackX) | Oct, 2025 |
+| Hackathon Participation Certificate | Guru Gobind Singh Indraprashta University, Delhi | Hackathon (CodeClash 2.0) | Oct, 2025 |
+| Hackathon Participation Certificate | Tech Masters India | Hackathon (Code For Bharat Season 2) | Oct, 2025 |
+| Hackathon Participation Certificate | Product Space | Hackathon (AI Agent Hackathon) | Oct, 2025 |
 | HackerRank Certificate | HackerRank | Skills Validation | 02 Nov, 2025 |
 | Quiz Participation Certificate | Tata Crucible | Quiz  | Nov, 2025 |
-                                 | Unstop        | Quiz  | Sep, 2025 |
-                                 | Unstop        | Coding Contest  | Jul, 2025 |
+| Quiz Participation Certificate | Unstop        | Quiz  | Sep, 2025 |
+| Quiz Participation Certificate | Unstop        | Coding Contest  | Jul, 2025 |
 ---
 
 ## 🌟 Highlights  
