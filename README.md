@@ -23,6 +23,7 @@ A collection of certifications and achievements that highlight my learning journ
 | Quiz Participation Certificate | Tata Crucible | Quiz  | Nov, 2025 |
 | Quiz Participation Certificate | Unstop        | Quiz  | Sep, 2025 |
 | Quiz Participation Certificate | Unstop        | Coding Contest  | Jul, 2025 |
+| Data Science Internship | Altair        | Internship | Oct, 2025 - Dec, 2025 |
 ---
 
 ## 🌟 Highlights  
