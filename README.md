@@ -24,6 +24,8 @@ A collection of certifications and achievements that highlight my learning journ
 | Quiz Participation Certificate | Unstop        | Quiz  | Sep, 2025 |
 | Quiz Participation Certificate | Unstop        | Coding Contest  | Jul, 2025 |
 | Data Science Internship | Altair        | Internship | Oct, 2025 - Dec, 2025 |
+| LLM for Young Developers Course Completion Certificate | FutureSkills-Prime        | Course/Internship | Feb, 2026 |
+| AI Skills Passport Course Completion Certificate | Microsoft        |  Course/Internship | Feb, 2026 |
 ---
 
 ## 🌟 Highlights  
