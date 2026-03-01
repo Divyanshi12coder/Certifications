@@ -26,6 +26,8 @@ A collection of certifications and achievements that highlight my learning journ
 | Data Science Internship | Altair        | Internship | Oct, 2025 - Dec, 2025 |
 | LLM for Young Developers Course Completion Certificate | FutureSkills-Prime        | Course/Internship | Feb, 2026 |
 | AI Skills Passport Course Completion Certificate | Microsoft        |  Course/Internship | Feb, 2026 |
+| IBM Course Completion Certificate | IBM        | Internship / Course | Mar, 2026 |
+| Offer Letter  | IIT Delhi        | Campus Ambassador | Mar, 2026 - Apr, 2026 |
 ---
 
 ## 🌟 Highlights  
