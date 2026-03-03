@@ -28,6 +28,7 @@ A collection of certifications and achievements that highlight my learning journ
 | AI Skills Passport Course Completion Certificate | Microsoft        |  Course/Internship | Feb, 2026 |
 | IBM Course Completion Certificate | IBM        | Internship / Course | Mar, 2026 |
 | Offer Letter  | IIT Delhi        | Campus Ambassador | Mar, 2026 - Apr, 2026 |
+| Hackathon Participation Certificate | IIITD, Delhi | Hackathon (Foodscope Fork) | Feb, 2026 |
 ---
 
 ## 🌟 Highlights  
