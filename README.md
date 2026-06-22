@@ -30,6 +30,7 @@ A collection of certifications and achievements that highlight my learning journ
 | Offer Letter  | IIT Delhi        | Campus Ambassador | Mar, 2026 - Apr, 2026 |
 | Hackathon Participation Certificate | IIITD, Delhi | Hackathon (Foodscope Fork) | Feb, 2026 |
 | Flipkart SCOA Certificate | Flipkart | Internship | Mar, 2026 |
+| Deloitte Data Analytics and Job Simulation Certificate | Deloitte | Course/Internship | Jun, 2026 |
 ---
 
 ## 🌟 Highlights  
