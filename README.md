@@ -31,6 +31,8 @@ A collection of certifications and achievements that highlight my learning journ
 | Hackathon Participation Certificate | IIITD, Delhi | Hackathon (Foodscope Fork) | Feb, 2026 |
 | Flipkart SCOA Certificate | Flipkart | Internship | Mar, 2026 |
 | Deloitte Data Analytics and Job Simulation Certificate | Deloitte | Course/Internship | Jun, 2026 |
+| Data Science with Python Certificate | Cisco | Course/Internship | Jun, 2026 |
+| Data Science Essentials with Python (Cisco Verified Badge) | Cisco | Course/Internship | Jun, 2026 |
 ---
 
 ## 🌟 Highlights  
