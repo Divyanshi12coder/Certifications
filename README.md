@@ -35,6 +35,7 @@ A collection of certifications and achievements that highlight my learning journ
 | Data Science Essentials with Python (Cisco Verified Badge) | Cisco | Course/Internship | Jun, 2026 |
 | Operations Industrial Enginneer Certificate  | Siemens | Course/Internship | Jun, 2026 |
 | Campus Crew QuizOff Certificate  | Campus Crew | Certificate | Jun, 2026 |
+| Campus Crew QuizOff Certificate Round 2 | Campus Crew | Certificate | Jun, 2026 |
 ---
 
 ## 🌟 Highlights  
