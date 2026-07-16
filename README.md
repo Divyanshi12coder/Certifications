@@ -11,32 +11,20 @@ A collection of certifications and achievements that highlight my learning journ
 |---------------|------------------|------|------|
 | AWS Internship – Course Completion Certificate | Amazon Web Services | Internship / Course | 24 Nov, 2025 |
 | Hackathon Participation Certificate | University Of Engineering and Mnagement, Kolkata | Hackathon (InnoFusion Season-2) | Jul, 2025 |
-| Hackathon Participation Certificate | StarSeek | Hackathon (Hack4Bihar) | Sep, 2025 | 
-| Hackathon Participation Certificate | CGC University, Mohali | Hackathon (VaultHeist) | Oct, 2025 |
-| Hackathon Participation Certificate | SRM University, AP | Hackathon (HackVyuha'25) | Oct, 2025 |
-| Hackathon Participation Certificate | University Of Engineering and Mnagement | Hackathon (Hack Synthesis 2.0) | Oct, 2025 |
-| Hackathon Participation Certificate | Chandigarh University | Hackathon (ComSoc HackX) | Oct, 2025 |
-| Hackathon Participation Certificate | Guru Gobind Singh Indraprashta University, Delhi | Hackathon (CodeClash 2.0) | Oct, 2025 |
-| Hackathon Participation Certificate | Tech Masters India | Hackathon (Code For Bharat Season 2) | Oct, 2025 |
-| Hackathon Participation Certificate | Product Space | Hackathon (AI Agent Hackathon) | Oct, 2025 |
 | HackerRank Certificate | HackerRank (https://www.hackerrank.com/certificates/7d2c6e67a362) | Skills Validation | 02 Nov, 2025 |
 | Quiz Participation Certificate | Tata Crucible | Quiz  | Nov, 2025 |
-| Quiz Participation Certificate | Unstop        | Quiz  | Sep, 2025 |
 | Quiz Participation Certificate | Unstop        | Coding Contest  | Jul, 2025 |
 | Data Science Internship | Altair        | Internship | Oct, 2025 - Dec, 2025 |
 | LLM for Young Developers Course Completion Certificate | FutureSkills-Prime        | Course/Internship | Feb, 2026 |
 | AI Skills Passport Course Completion Certificate | Microsoft        |  Course/Internship | Feb, 2026 |
 | IBM Course Completion Certificate | IBM        | Internship / Course | Mar, 2026 |
 | Offer Letter  | IIT Delhi        | Campus Ambassador | Mar, 2026 - Apr, 2026 |
-| Hackathon Participation Certificate | IIITD, Delhi | Hackathon (Foodscope Fork) | Feb, 2026 |
 | Flipkart SCOA Certificate | Flipkart | Internship | Mar, 2026 |
 | Deloitte Data Analytics and Job Simulation Certificate | Deloitte | Course/Internship | Jun, 2026 |
 | Data Science with Python Certificate | Cisco | Course/Internship | Jun, 2026 |
 | Data Science Essentials with Python (Cisco Verified Badge) | Cisco | Course/Internship | Jun, 2026 |
 | Operations Industrial Enginneer Certificate  | Siemens | Course/Internship | Jun, 2026 |
-| Campus Crew QuizOff Certificate  | Campus Crew | Certificate | Jun, 2026 |
-| Campus Crew QuizOff Certificate Round 2 | Campus Crew | Certificate | Jun, 2026 |
-| Women Engineering College Quiz Certificate  | Women Engineering College , Ajmer, Rajasthan | Certificate | Jun, 2026 |
+
 ---
 
 ## 🌟 Highlights  
